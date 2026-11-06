@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 from urllib.request import Request, urlopen
 
-OWNER = "phuongleproea-blip"
+OWNER = "RosieAVYTRIX"
 README = Path(__file__).resolve().parents[1] / "README.md"
 START, END = "<!-- PROJECTS:START -->", "<!-- PROJECTS:END -->"
 
