@@ -21,11 +21,11 @@ Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đ
 
 **[RosieAVYTRIX Partner Desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** — Theo dõi cơ hội hợp tác với giai đoạn, bước tiếp theo, nháp cục bộ và xuất CSV; giao diện thẻ trên điện thoại.
 
-[**Mở Partner Desk ↗**](https://avytrix-partner-desk.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/RosieAVYTRIX/avytrix-partner-desk)
+[**Mở Partner Desk ↗**](https://rosieavytrix-partner-desk.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/RosieAVYTRIX/avytrix-partner-desk)
 
 **[RosieAVYTRIX Project Brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** — Biến ý tưởng hợp tác thành brief có mục tiêu, phạm vi MVP và lộ trình; xem trước trực tiếp, lưu nháp trên thiết bị và xuất Markdown.
 
-[**Mở bản chạy thử ↗**](https://avytrix-project-brief.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/RosieAVYTRIX/avytrix-project-brief)
+[**Mở bản chạy thử ↗**](https://rosieavytrix-project-brief.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/RosieAVYTRIX/avytrix-project-brief)
 
 *Demo portfolio phát triển với sự hỗ trợ của Codex; chưa phải dự án khách hàng.*
 
