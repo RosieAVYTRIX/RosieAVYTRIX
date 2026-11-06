@@ -3,7 +3,7 @@
 # RosieAVYTRIX
 ### Giới thiệu dự án · Kết nối đối tác
 
-[Projects](https://github.com/RosieAVYTRIX?tab=repositories) · [Trao đổi hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues)
+[**Portfolio chính thức ↗**](https://rosieavytrix.github.io/) · [Projects](https://github.com/RosieAVYTRIX?tab=repositories) · [Trao đổi hợp tác](https://github.com/RosieAVYTRIX/RosieAVYTRIX/issues)
 
 </div>
 
