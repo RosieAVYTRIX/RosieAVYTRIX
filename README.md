@@ -9,9 +9,9 @@
 
 ---
 
-### Về AVYTRIX
+### Về RosieAVYTRIX
 
-Chào bạn, đây là không gian giới thiệu các dự án công khai của AVYTRIX, chia sẻ mã nguồn và kết nối với đối tác quan tâm đến việc cùng phát triển dự án.
+Chào bạn, đây là không gian giới thiệu các dự án công khai của RosieAVYTRIX, chia sẻ mã nguồn và kết nối với đối tác quan tâm đến việc cùng phát triển dự án.
 
 ### Kết nối hợp tác
 
@@ -19,11 +19,11 @@ Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đ
 
 ### Dự án nổi bật
 
-**[AVYTRIX Partner Desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** — Theo dõi cơ hội hợp tác với giai đoạn, bước tiếp theo, nháp cục bộ và xuất CSV; giao diện thẻ trên điện thoại.
+**[RosieAVYTRIX Partner Desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** — Theo dõi cơ hội hợp tác với giai đoạn, bước tiếp theo, nháp cục bộ và xuất CSV; giao diện thẻ trên điện thoại.
 
 [**Mở Partner Desk ↗**](https://avytrix-partner-desk.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/RosieAVYTRIX/avytrix-partner-desk)
 
-**[AVYTRIX Project Brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** — Biến ý tưởng hợp tác thành brief có mục tiêu, phạm vi MVP và lộ trình; xem trước trực tiếp, lưu nháp trên thiết bị và xuất Markdown.
+**[RosieAVYTRIX Project Brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** — Biến ý tưởng hợp tác thành brief có mục tiêu, phạm vi MVP và lộ trình; xem trước trực tiếp, lưu nháp trên thiết bị và xuất Markdown.
 
 [**Mở bản chạy thử ↗**](https://avytrix-project-brief.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/RosieAVYTRIX/avytrix-project-brief)
 
@@ -35,10 +35,10 @@ Danh sách bên dưới được đồng bộ tự động từ các repository 
 
 <!-- PROJECTS:START -->
 - **[avytrix-partner-desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** · —
-  Mobile-friendly partnership pipeline — local drafts, stage filters, next actions and CSV export. AVYTRIX portfolio demo.
+  Mobile-friendly partnership pipeline — local drafts, stage filters, next actions and CSV export. RosieAVYTRIX portfolio demo.
 
 - **[avytrix-project-brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** · —
-  Interactive project brief builder — live preview, local drafts, Markdown export. AVYTRIX partnership demo.
+  Interactive project brief builder — live preview, local drafts, Markdown export. RosieAVYTRIX partnership demo.
 <!-- PROJECTS:END -->
 
 ### Công nghệ của repository này
