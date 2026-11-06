@@ -21,12 +21,17 @@ Danh sách bên dưới được đồng bộ tự động từ các repository 
 *Chưa có dự án công khai để hiển thị.*
 <!-- PROJECTS:END -->
 
-### Khám phá một dự án
+### Công nghệ của repository này
 
-README của từng dự án là nơi trình bày:
-- **Bài toán:** Dự án giải quyết điều gì và dành cho ai.
-- **Demo:** Ảnh giao diện hoặc bản chạy thử.
-- **Chạy thử:** Các bước cài đặt và sử dụng có thể làm theo.
-- **Chất lượng:** Cách kiểm tra, giới hạn và các cải tiến tiếp theo.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Python tạo danh sách dự án; GitHub Actions chạy đồng bộ theo lịch.
+
+### Hoạt động trên GitHub
+
+[![Update portfolio](https://github.com/phuongleproea-blip/phuongleproea-blip/actions/workflows/update-portfolio.yml/badge.svg)](https://github.com/phuongleproea-blip/phuongleproea-blip/actions/workflows/update-portfolio.yml)
+
+[Xem lịch sử đóng góp](https://github.com/phuongleproea-blip?tab=overview) · [Xem lịch sử mã nguồn](https://github.com/phuongleproea-blip/phuongleproea-blip/commits/main/)
 
 <sub>Portfolio tự cập nhật hằng tuần; chỉ tạo commit khi danh sách dự án thay đổi.</sub>
