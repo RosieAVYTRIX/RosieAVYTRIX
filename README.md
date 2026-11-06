@@ -34,11 +34,11 @@ Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đ
 Danh sách bên dưới được đồng bộ tự động từ các repository công khai do tài khoản này sở hữu. Mỗi liên kết dẫn đến mã nguồn để bạn tự xem cách triển khai.
 
 <!-- PROJECTS:START -->
-- **[avytrix-partner-desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** · JavaScript
-  Workspace theo dõi cơ hội hợp tác, tối ưu điện thoại, có bộ lọc và xuất CSV.
+- **[avytrix-partner-desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** · —
+  Mobile-friendly partnership pipeline — local drafts, stage filters, next actions and CSV export. AVYTRIX portfolio demo.
 
-- **[avytrix-project-brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** · JavaScript
-  Công cụ tạo project brief tương tác cho cuộc trao đổi với đối tác.
+- **[avytrix-project-brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** · —
+  Interactive project brief builder — live preview, local drafts, Markdown export. AVYTRIX partnership demo.
 <!-- PROJECTS:END -->
 
 ### Công nghệ của repository này
