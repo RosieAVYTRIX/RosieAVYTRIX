@@ -17,12 +17,21 @@ Chào bạn, đây là không gian giới thiệu các dự án công khai của
 
 Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đổi](https://github.com/phuongleproea-blip/phuongleproea-blip/issues/new) với mô tả ngắn về dự án, mục tiêu và cách bạn muốn hợp tác.
 
+### Dự án nổi bật
+
+**[AVYTRIX Project Brief](https://github.com/phuongleproea-blip/avytrix-project-brief)** — Biến ý tưởng hợp tác thành brief có mục tiêu, phạm vi MVP và lộ trình; xem trước trực tiếp, lưu nháp trên thiết bị và xuất Markdown.
+
+[**Mở bản chạy thử ↗**](https://avytrix-project-brief.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/phuongleproea-blip/avytrix-project-brief)
+
+*Demo portfolio phát triển với sự hỗ trợ của Codex; chưa phải dự án khách hàng.*
+
 ### Project portfolio
 
 Danh sách bên dưới được đồng bộ tự động từ các repository công khai do tài khoản này sở hữu. Mỗi liên kết dẫn đến mã nguồn để bạn tự xem cách triển khai.
 
 <!-- PROJECTS:START -->
-*Chưa có dự án công khai để hiển thị.*
+- **[avytrix-project-brief](https://github.com/phuongleproea-blip/avytrix-project-brief)** · JavaScript
+  Công cụ tạo project brief tương tác cho cuộc trao đổi với đối tác.
 <!-- PROJECTS:END -->
 
 ### Công nghệ của repository này
