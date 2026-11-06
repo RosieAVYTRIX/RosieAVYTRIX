@@ -1,17 +1,21 @@
 <div align="center">
 
-# phuongleproea-blip
-### Ideas → Code → Working projects
+# AVYTRIX
+### Giới thiệu dự án · Kết nối đối tác
 
-[Projects](https://github.com/phuongleproea-blip?tab=repositories) · [Issues & discussions](https://github.com/phuongleproea-blip/phuongleproea-blip/issues)
+[Projects](https://github.com/phuongleproea-blip?tab=repositories) · [Trao đổi hợp tác](https://github.com/phuongleproea-blip/phuongleproea-blip/issues)
 
 </div>
 
 ---
 
-### Chào bạn 👋
+### Về AVYTRIX
 
-Đây là nơi mình lưu trữ mã nguồn, ghi lại quá trình xây dựng và giới thiệu các dự án công khai.
+Chào bạn, đây là không gian giới thiệu các dự án công khai của AVYTRIX, chia sẻ mã nguồn và kết nối với đối tác quan tâm đến việc cùng phát triển dự án.
+
+### Kết nối hợp tác
+
+Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đổi](https://github.com/phuongleproea-blip/phuongleproea-blip/issues/new) với mô tả ngắn về dự án, mục tiêu và cách bạn muốn hợp tác.
 
 ### Project portfolio
 
