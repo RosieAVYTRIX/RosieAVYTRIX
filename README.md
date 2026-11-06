@@ -19,6 +19,10 @@ Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đ
 
 ### Dự án nổi bật
 
+**[AVYTRIX Partner Desk](https://github.com/phuongleproea-blip/avytrix-partner-desk)** — Theo dõi cơ hội hợp tác với giai đoạn, bước tiếp theo, nháp cục bộ và xuất CSV; giao diện thẻ trên điện thoại.
+
+[**Mở Partner Desk ↗**](https://avytrix-partner-desk.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/phuongleproea-blip/avytrix-partner-desk)
+
 **[AVYTRIX Project Brief](https://github.com/phuongleproea-blip/avytrix-project-brief)** — Biến ý tưởng hợp tác thành brief có mục tiêu, phạm vi MVP và lộ trình; xem trước trực tiếp, lưu nháp trên thiết bị và xuất Markdown.
 
 [**Mở bản chạy thử ↗**](https://avytrix-project-brief.phuongleproea.chatgpt.site) · [Đọc README & mã nguồn](https://github.com/phuongleproea-blip/avytrix-project-brief)
@@ -30,6 +34,9 @@ Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đ
 Danh sách bên dưới được đồng bộ tự động từ các repository công khai do tài khoản này sở hữu. Mỗi liên kết dẫn đến mã nguồn để bạn tự xem cách triển khai.
 
 <!-- PROJECTS:START -->
+- **[avytrix-partner-desk](https://github.com/phuongleproea-blip/avytrix-partner-desk)** · JavaScript
+  Workspace theo dõi cơ hội hợp tác, tối ưu điện thoại, có bộ lọc và xuất CSV.
+
 - **[avytrix-project-brief](https://github.com/phuongleproea-blip/avytrix-project-brief)** · JavaScript
   Công cụ tạo project brief tương tác cho cuộc trao đổi với đối tác.
 <!-- PROJECTS:END -->
