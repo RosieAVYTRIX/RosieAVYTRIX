@@ -34,11 +34,14 @@ Bạn có ý tưởng hoặc đề xuất hợp tác? [Mở một cuộc trao đ
 Danh sách bên dưới được đồng bộ tự động từ các repository công khai do tài khoản này sở hữu. Mỗi liên kết dẫn đến mã nguồn để bạn tự xem cách triển khai.
 
 <!-- PROJECTS:START -->
+- **[RosieAVYTRIX.github.io](https://github.com/RosieAVYTRIX/RosieAVYTRIX.github.io)** · —
+  RosieAVYTRIX portfolio — product experiments, live demos and partnership conversations.
+
 - **[avytrix-partner-desk](https://github.com/RosieAVYTRIX/avytrix-partner-desk)** · —
-  Mobile-friendly partnership pipeline — local drafts, stage filters, next actions and CSV export. RosieAVYTRIX portfolio demo.
+  RosieAVYTRIX Partner Desk — mobile-friendly partnership pipeline with local drafts, stage filters, next actions and CSV export.
 
 - **[avytrix-project-brief](https://github.com/RosieAVYTRIX/avytrix-project-brief)** · —
-  Interactive project brief builder — live preview, local drafts, Markdown export. RosieAVYTRIX partnership demo.
+  RosieAVYTRIX Project Brief — live preview, local drafts and Markdown export for partnership conversations.
 <!-- PROJECTS:END -->
 
 ### Công nghệ của repository này
